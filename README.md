@@ -20,14 +20,14 @@
 
 * Publisher
   
-    `go run .\nats-go-examples\example1\natstest-publisher.go`
+    `go run .\go\example1\natstest-publisher.go`
 
 * Subscriber
   
-    `go run .\nats-go-examples\example1\natstest-subscriber.go`
+    `go run .\go\example1\natstest-subscriber.go`
 
 #### Running the Unity Pub/Sub
 
-* Open unity/UnityNATSTesting on UnityHub
+* Open /unity on UnityHub
 * Select `file -> Build and Run` from the to left `file` menu.
 
